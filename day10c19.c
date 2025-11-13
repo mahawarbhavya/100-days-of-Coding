@@ -3,7 +3,7 @@
 int main() {
     int side1, side2, side3;
 
-    printf("Enter the value of side 1\n");
+    printf("Enter the value of side 1\n"); 
     scanf("%d", &side1);
 
     printf("Enter the value of side 2\n");
