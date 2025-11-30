@@ -13,7 +13,7 @@ int main() {
         }
     }
 
-    int symmetric = 1; // assume true
+    int symmetric = 1; 
     for(int i=0; i<n; i++) {
         for(int j=0; j<n; j++) {
             if(a[i][j] != a[j][i]) {
